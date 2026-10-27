@@ -1,16 +1,13 @@
-## Hi there 👋
+# Etnoxia
 
-<!--
-**etnoxia/etnoxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Üdvözlünk az Etnoxia hivatalos GitHub-oldalán!
 
-Here are some ideas to get you started:
+Az Etnoxia gyakorlati és biztonságtudatos IT- és AI-megoldásokkal, oktatóanyagokkal és technológiai projektekkel foglalkozik magánfelhasználók, vállalkozók és cégek számára.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ez a repository az Etnoxia központi GitHub-tárhelye, ahol a weboldalhoz kapcsolódó fejlesztések, dokumentációk és további projektek anyagai is helyet kaphatnak.
+
+**Hivatalos weboldalak:**
+- https://etnoxia.hu
+- https://etnoxia.com
+
+A tartalom a projektek fejlődésével folyamatosan bővül.
